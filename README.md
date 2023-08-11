@@ -1,4 +1,19 @@
 # Hotels-analysis-python-power-Bi-
+![Screenshot 2023-08-11 212412](https://github.com/NoorhanHamed/Hotels-analysis-python-/assets/113361240/f13e067b-65f4-4c8a-9700-1440588d7f01)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 As a data analyst dealing with large amounts of data, the task of preprocessing and cleaning the data is 
 crucial and often time-consuming.
 After completing the data preprocessing and cleaning steps, the next phase is analysis. 
