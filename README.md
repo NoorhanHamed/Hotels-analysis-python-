@@ -19,7 +19,7 @@ crucial and often time-consuming.
 After completing the data preprocessing and cleaning steps, the next phase is analysis. 
 In this phase, you can apply various analytical techniques to derive meaningful insights and answer key 
 questions relevant to the business.
-# Provide your answers to the below questions and add any metrics that you find important
+# Provide answers to the below questions and  metrics that you find important
 - Hotels with highest profitability and losses.
 - Countries with highest profitability and losses.
 - Total Sales per country.
