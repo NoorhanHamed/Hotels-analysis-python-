@@ -1,4 +1,4 @@
-# Hotels-analysis-python-power-Bi-
+# Hotels-analysis-python(numpy , pandas , seaborn) -power-Bi-
 ![Screenshot 2023-08-11 212412](https://github.com/NoorhanHamed/Hotels-analysis-python-/assets/113361240/f13e067b-65f4-4c8a-9700-1440588d7f01)
 
 
